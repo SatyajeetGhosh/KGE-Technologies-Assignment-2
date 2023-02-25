@@ -37,9 +37,7 @@ function prevForm(){
     displayForms();
 }
 
-function progressBar(){
-    // e.preventDefault(); 
-
+function progressBar(){ 
     if(viewId===2){
         one.classList.add('active');
     }
